@@ -80,6 +80,12 @@ COMEDKARES Innovation and Design Thinking Competition
 - Regional language support
 
 ---
+## 🎨 Live Prototype
+
+👉 [View Figma Prototype](https://www.figma.com/design/45HNsmr5sHTIOnACwuy2oS/edu-app?node-id=0-1&t=a98F53mjSk97xN8I-1)
+
+
+---
 
 # 👩‍💻 Team
 
